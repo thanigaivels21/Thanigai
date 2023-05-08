@@ -1,2 +1,2 @@
-cd /home/ec2-user
+sudo cd /home/ec2-user
 ls -lrt
